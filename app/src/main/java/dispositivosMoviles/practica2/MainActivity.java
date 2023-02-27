@@ -4,6 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * @author Israel Hernandez Dorantes
+ * <a href="hdisra318:hdisra318@ciencias.unam.mx" >hdisra318@ciencias.unam.mx</a>
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
