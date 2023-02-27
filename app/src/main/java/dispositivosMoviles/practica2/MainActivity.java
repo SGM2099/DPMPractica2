@@ -4,6 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * @author Sebastian ALejandro Gutierrez Medina
+ * email : sebasguti1511@ciencias.unam.mx
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
